@@ -1,0 +1,27 @@
+fieldset {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+input:last-child {
+  margin-bottom: 0;
+}
+
+#user-years {
+  width: 65px;
+}
+
+#radio-no {
+  margin-bottom: 14px;
+}
+
+#range-rate {
+  margin-top: 12px;
+}
+
+#recommend-select {
+  margin-top: 10px;
+}
