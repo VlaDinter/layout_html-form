@@ -9,7 +9,3 @@
 .form__wrapper:last-child {
   margin-bottom: 0;
 }
-
-.form__input--years {
-  width: 65px;
-}
